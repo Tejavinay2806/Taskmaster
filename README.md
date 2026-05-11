@@ -80,7 +80,7 @@ Follow these steps to set up the project:
 2. Clone the TaskMaster repository:
 
    ```bash
-   git clone https://github.com/maurya-kamminana/TaskMaster.git
+   git clone https://github.com/Tejavinay2806/Taskmaster.git
    ```
 
 3. Navigate to the project directory:
